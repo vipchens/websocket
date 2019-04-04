@@ -1,4 +1,4 @@
-require('../lib/dateFormat');
+require('../utils/dateFormat');
 const fs = require('fs');
 const path = require('path');
 
